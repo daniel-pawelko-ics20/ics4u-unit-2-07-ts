@@ -1,6 +1,6 @@
 /**
  * Bike
- * By: Peter Gemmell
+ * By: Daniel Pawelko
  * Version: 1.0
  * Since:   2022-11-04
  */
